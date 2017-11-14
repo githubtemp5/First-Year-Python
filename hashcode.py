@@ -1,0 +1,2 @@
+def fileReading():
+    print("ALVIN")
